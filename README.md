@@ -1,5 +1,5 @@
 # 🎴 My Profile Card
-![Profile Card Screenshot](preview.png)
+![Profile Card Screenshot](preview.jpg)
 
 A clean, responsive, and modern personal profile card built with pure HTML and CSS. This project displays key professional details, skill tags, and quick action buttons for personal branding and developer portfolios.
 
